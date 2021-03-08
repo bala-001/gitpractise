@@ -1,3 +1,1 @@
-second line
-
-
+This is a sample text.
